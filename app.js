@@ -464,7 +464,9 @@ var myObj = {
     }
  }
 
- console.log("=====>" ,result)
+ console.log("=====>" ,result);
+
+ console.log("faizan")
 
 
  
